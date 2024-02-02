@@ -17,4 +17,5 @@ Steps to Use Github/Git/Github
 15. Make sure to commit your changes
 16. Push Change to Remote Repository
 17. Go to the setting and check your repository name
-18. 
+18. Select "Master Branch" and copy the URL into your web browser
+    

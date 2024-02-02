@@ -19,3 +19,6 @@ Steps to Use Github/Git/Github
 17. Go to the setting and check your repository name
 18. Select "Master Branch" and copy the URL into your web browser
     
+Definitions
+
+Branch: A branch in a computer program is a type of instruction which tells the computer to start executing different instructions rather than simply executing them in order. 
